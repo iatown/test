@@ -1,3 +1,3 @@
 let log = console.log;
 
-log("hello")
+log("hello world")
